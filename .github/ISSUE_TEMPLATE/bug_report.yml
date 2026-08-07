@@ -1,0 +1,58 @@
+name: 🐞 Bug report
+description: Report something that isn't working, or a documentation error.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Please fill in what you can —
+        even a partial report is helpful.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem. What did you expect, and what did you see instead?
+      placeholder: When I do X, Y happens instead of Z.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can someone else see the same thing?
+      placeholder: |
+        1. Open …
+        2. Click …
+        3. Notice …
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Locus Studio version
+      description: Shown in the About window (e.g. 0.1.237). Skip if unsure.
+      placeholder: "0.1.x"
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part is this about?
+      options:
+        - Modeling window
+        - Nodes window
+        - Patterns / symmetry
+        - Import / export / files
+        - The documentation itself
+        - Something else / not sure
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, a sample file, or other context can go here.
+    validations:
+      required: false
