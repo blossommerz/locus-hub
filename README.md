@@ -22,14 +22,14 @@ meeting the newest tool to make it with. The beta will be your invitation to bui
 
 ## 📖 Documentation
 
-The full documentation lives in the **[Wiki](https://github.com/blossommerz/locus-studio/wiki)** —
+The full documentation lives in the **[Wiki](https://github.com/blossommerz/locus-hub/wiki)** —
 browse it with the sidebar there. Start with
-[Welcome](https://github.com/blossommerz/locus-studio/wiki/welcome) or
-[Your first pattern](https://github.com/blossommerz/locus-studio/wiki/first-pattern).
+[Welcome](https://github.com/blossommerz/locus-hub/wiki/welcome) or
+[Your first pattern](https://github.com/blossommerz/locus-hub/wiki/first-pattern).
 
 ## 🐞 Bugs & feedback
 
-Please [open an issue](https://github.com/blossommerz/locus-studio/issues/new/choose) —
+Please [open an issue](https://github.com/blossommerz/locus-hub/issues/new/choose) —
 there's a short bug-report form. Browse
-[existing issues](https://github.com/blossommerz/locus-studio/issues) first in case
+[existing issues](https://github.com/blossommerz/locus-hub/issues) first in case
 it's already been raised.
