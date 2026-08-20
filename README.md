@@ -23,6 +23,7 @@ meeting the newest tool to make it with. The beta will be your invitation to bui
 ## 💬 Community & support
 
 - **📣 Get notified at launch** — Locus is entering public beta soon; email an inquiry to **[algoristanm@gmail.com](mailto:algoristanm@gmail.com)** to be told the moment it lands.
+- **🎁 Free one-year license** — everyone who actively takes part in the public beta gets one.
 - **Questions, ideas, show & tell** — join the conversation in [**GitHub Discussions**](https://github.com/blossommerz/locus-hub/discussions).
 - **🔑 Licensing** — copy your machine ID from the app's Activate dialog and email it to **algoristanm@gmail.com**; licenses are issued by email, so machine IDs stay private (never post them on the public boards).
 
