@@ -20,6 +20,14 @@ logic and relationships instead of measurements, now driven by a live parametric
 node graph and exported as exact geometry. The oldest way to make a pattern,
 meeting the newest tool to make it with. The beta will be your invitation to build with it.
 
+## 💬 Community & support
+
+- **📣 Get notified at launch** — Locus is entering public beta soon; email an inquiry to **[algoristanm@gmail.com](mailto:algoristanm@gmail.com)** to be told the moment it lands.
+- **Questions, ideas, show & tell** — join the conversation in [**GitHub Discussions**](https://github.com/blossommerz/locus-hub/discussions).
+- **🔑 Licensing** — copy your machine ID from the app's Activate dialog and email it to **algoristanm@gmail.com**; licenses are issued by email, so machine IDs stay private (never post them on the public boards).
+
+More detail on the [Community & support](https://github.com/blossommerz/locus-hub/wiki/community) wiki page.
+
 ## 📖 Documentation
 
 The full documentation lives in the **[Wiki](https://github.com/blossommerz/locus-hub/wiki)** —
