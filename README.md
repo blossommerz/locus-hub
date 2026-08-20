@@ -22,6 +22,8 @@ logic and relationships instead of measurements, now driven by a live parametric
 node graph and exported as exact geometry. The oldest way to make a pattern,
 meeting the newest tool to make it with. The beta will be your invitation to build with it.
 
+**How close is it?** No firm date yet — but you can watch it happen: the **[Beta v1 milestone](https://github.com/blossommerz/locus-hub/milestones)** bar fills as the last issues close, and beta lands when it hits 100%.
+
 ## 💬 Community & support
 
 - **📣 Get notified at launch** — Locus is entering public beta soon; email an inquiry to **[algoristanm@gmail.com](mailto:algoristanm@gmail.com)** to be told the moment it lands.
