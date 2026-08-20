@@ -1,3 +1,5 @@
+<p align="center"><img src="images/first-pattern-star.png" width="100%" alt="An eight-point star built in Locus Studio — a compass-and-straightedge construction driven by a live node graph"></p>
+
 # Locus Studio
 
 **Locus Studio** is a from-scratch app for parametric geometric pattern design —
