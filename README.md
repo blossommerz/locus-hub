@@ -5,6 +5,7 @@
 **Locus Studio** is a from-scratch app for parametric geometric pattern design —
 a compass-and-straightedge construction canvas and a node-based dataflow graph,
 bridged live, with exact line-and-arc geometry all the way to clean, precise vector output.
+It runs as a native desktop app on **macOS and Windows**.
 
 ## 🚀 A public home, ahead of the beta
 
