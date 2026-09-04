@@ -23,7 +23,18 @@ logic and relationships instead of measurements, now driven by a live parametric
 node graph and exported as exact geometry. The oldest way to make a pattern,
 meeting the newest tool to make it with. The beta will be your invitation to build with it.
 
-**How close is it?** No firm date yet — but you can watch it happen: the **[Beta v1 milestone](https://github.com/blossommerz/locus-hub/milestones)** bar fills as the last issues close, and beta lands when it hits 100%.
+**How close is it? Very.** We're in the final stretch — down to the last handful of issues. You can watch it happen in real time: the **[Beta v1 milestone](https://github.com/blossommerz/locus-hub/milestones)** bar fills as those issues close, and the beta ships the moment it reaches 100%.
+
+## ⬇️ Getting Locus
+
+When the beta lands, Locus will be a **standard download, right here on GitHub** — no app store, no account required. Here's how it will work:
+
+1. Open the **[Releases](https://github.com/blossommerz/locus-hub/releases)** page.
+2. From the latest release, download the build for your platform — the **macOS** (`.dmg`) or the **Windows** installer.
+3. Install and launch it like any other desktop app.
+4. On first run, open the **Activate** dialog and follow the [licensing steps](#-community--support) to claim your free one-year beta license.
+
+> **Nothing to download just yet** — the Releases page fills the moment the beta ships. **[Watch this repository](https://github.com/blossommerz/locus-hub)** (the *Watch* button, top-right) or [ask to be notified](#-community--support), and you'll hear the day it goes live.
 
 ## 💬 Community & support
 
