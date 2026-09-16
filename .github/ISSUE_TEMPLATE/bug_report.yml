@@ -31,8 +31,8 @@ body:
     id: version
     attributes:
       label: Locus Studio version
-      description: Shown in the About window (e.g. 0.2.0). Skip if unsure.
-      placeholder: "0.2.x"
+      description: Shown in the About window (e.g. 0.3.0). Skip if unsure.
+      placeholder: "0.3.x"
     validations:
       required: false
   - type: dropdown

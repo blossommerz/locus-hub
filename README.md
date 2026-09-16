@@ -11,7 +11,7 @@ It runs as a native desktop app on **macOS and Windows**.
 
 This repository is Locus Studio's home in the open — a **release hub**, a
 **bug tracker**, and a **living documentation library**, all in one place. The
-first **public beta** has arrived: Locus has left the workshop and is in your
+**public beta** is underway: Locus has left the workshop and is in your
 hands.
 
 Here's why that's worth being excited about. For a thousand years, the great
@@ -23,7 +23,7 @@ logic and relationships instead of measurements, now driven by a live parametric
 node graph and exported as exact geometry. The oldest way to make a pattern,
 meeting the newest tool to make it with. This beta is your invitation to build with it.
 
-**It's here.** Locus Studio **[0.2.0 — Beta 1](https://github.com/blossommerz/locus-hub/releases/tag/v0.2.0)** is out: the first public beta, free for a year. Grab it just below and build something.
+**Beta 2 is out.** Locus Studio **[0.3.0 — Beta 2](https://github.com/blossommerz/locus-hub/releases/tag/v0.3.0)** is the beta's first big update — new nodes, new library clusters, sharper snapping and export, and a long list of fixes from the first round of testers. Free for a year. Grab it just below and build something.
 
 ## ⬇️ Getting Locus
 
