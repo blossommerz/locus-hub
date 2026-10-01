@@ -23,7 +23,7 @@ logic and relationships instead of measurements, now driven by a live parametric
 node graph and exported as exact geometry. The oldest way to make a pattern,
 meeting the newest tool to make it with. This beta is your invitation to build with it.
 
-**Beta 2 is out.** Locus Studio **[0.3.0 — Beta 2](https://github.com/blossommerz/locus-hub/releases/tag/v0.3.0)** is the beta's first big update — new nodes, new library clusters, sharper snapping and export, and a long list of fixes from the first round of testers. Free for a year. Grab it just below and build something.
+**Beta 3 is out.** Locus Studio **[0.3.50 - Beta 3](https://github.com/blossommerz/locus-hub/releases/tag/v0.3.50)** is two weeks of daily drawing worked back into the app: regular polygons, a fill you paint by dragging, tangents you pick from instead of guessing, a zoom that shows true size, stroke placement and corner styling, and 151 closed issues. Free for a year. Grab it just below and build something.
 
 ## ⬇️ Getting Locus
 
